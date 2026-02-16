@@ -3,7 +3,7 @@
 A modern, responsive personal portfolio website showcasing professional work, services, and skills. Features an animated profession wheel, dark/light mode toggle, smooth scroll animations, testimonial slider, and an interactive contact form.
 
 ![Portfolio Screenshot](screenshot.png)
-*Add screenshot here*
+*Screenshot placeholder - Add actual screenshot of the portfolio here*
 
 ## 🚀 Features
 

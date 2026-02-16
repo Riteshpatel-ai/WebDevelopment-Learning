@@ -3,7 +3,7 @@
 A modern and responsive landing page inspired by Starbucks design, featuring smooth animations, interactive navigation, and a clean shop section. Built with HTML, CSS, and JavaScript to showcase coffee products with an engaging user experience.
 
 ![Starbucks Landing Page](screenshot.png)
-*Add screenshot here*
+*Screenshot placeholder - Add actual screenshot of the landing page here*
 
 ## 🚀 Features
 
